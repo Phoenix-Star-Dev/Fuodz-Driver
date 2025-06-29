@@ -2,7 +2,7 @@
 
 class Api {
   static String get baseUrl {
-    return "https://fuodz.edentech.online/api";
+    return "https://jad.sa/api";
     // return "http://192.168.8.145:8000/api";
   }
 
