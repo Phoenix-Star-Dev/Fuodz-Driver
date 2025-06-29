@@ -2,24 +2,18 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>CLIENT_ID</key>
-	<string>977502122572-9eef517oe3ontec05l5memgakcgvvbr8.apps.googleusercontent.com</string>
-	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.977502122572-9eef517oe3ontec05l5memgakcgvvbr8</string>
-	<key>ANDROID_CLIENT_ID</key>
-	<string>977502122572-uqbva0nj0db9sktofqvfg609i0s0rrlo.apps.googleusercontent.com</string>
 	<key>API_KEY</key>
-	<string>AIzaSyD3OKxgOAcHixt-EswOYdpGAVDd_qJWleQ</string>
+	<string>AIzaSyDxYSx6coaHC2_3g5CvIBspaTjmPfXFg74</string>
 	<key>GCM_SENDER_ID</key>
-	<string>977502122572</string>
+	<string>258546891887</string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
-	<string>online.edentech.fuodzdeliveryboy</string>
+	<string>sa.jad.driver</string>
 	<key>PROJECT_ID</key>
-	<string>fuodz-e9ebc</string>
+	<string>jadapp-70b0f</string>
 	<key>STORAGE_BUCKET</key>
-	<string>fuodz-e9ebc.appspot.com</string>
+	<string>jadapp-70b0f.firebasestorage.app</string>
 	<key>IS_ADS_ENABLED</key>
 	<false></false>
 	<key>IS_ANALYTICS_ENABLED</key>
@@ -31,6 +25,6 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:977502122572:ios:5c1d80fc63dce7d9c3bae9</string>
+	<string>1:258546891887:ios:9020395f1940500848e19a</string>
 </dict>
 </plist>

@@ -17,7 +17,7 @@ if (keystorePropertiesFile.exists()) {
 }
 
 android {
-    namespace = "online.edentech.fuodzdeliveryboy"
+    namespace = "online.jad.fuodzdeliveryboy"
     compileSdk = flutter.compileSdkVersion
     ndkVersion = flutter.ndkVersion
 
@@ -31,7 +31,7 @@ android {
     }
 
     defaultConfig {
-        applicationId = "online.edentech.fuodzdeliveryboy"
+        applicationId = "online.jad.fuodzdeliveryboy"
         minSdk = 23
         targetSdk = 34
         ndkVersion = "27.0.12077973"

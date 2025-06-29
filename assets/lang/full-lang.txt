@@ -442,3 +442,18 @@ Vehicle Make
 Please select vehicle make
 Vehicle Model
 Please select vehicle model
+Earnings
+Balance
+Today
+This Week
+This Month
+Pending Remittance
+Order
+Today
+Orders
+This Week
+Orders
+This Month
+Orders
+All Time
+Orders

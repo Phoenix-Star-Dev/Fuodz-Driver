@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="online.edentech.fuodzdeliveryboy"
+    package="online.jad.fuodzdeliveryboy"
     xmlns:tools="http://schemas.android.com/tools">
     <!-- io.flutter.app.FlutterApplication is an android.app.Application that
          calls FlutterMain.startInitialization(this); in its onCreate method.
@@ -44,7 +44,7 @@
                 
     <application
         android:name="${applicationName}"
-        android:label="Glover Driver"
+        android:label="Jad Driver"
         android:usesCleartextTraffic="true"
         android:requestLegacyExternalStorage="true"
         android:icon="@mipmap/launcher_icon"
@@ -102,7 +102,7 @@
 
 
         <meta-data android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyDnDczEoeUwf7bN5b_-223uvrecPVfzggE"/>
+            android:value="AIzaSyBspYnobZuup9bXiTCdUVZSIFx9k7kr5Mc"/>
         <!-- for the overlay permission usage -->
         <service android:name="flutter.overlay.window.flutter_overlay_window.OverlayService" 
             android:exported="false"

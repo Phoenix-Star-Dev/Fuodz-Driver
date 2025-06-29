@@ -1,7 +1,7 @@
 flutter_application_id:
   android:
-    id: "online.edentech.fuodzdeliveryboy"
-    name: "Glover Driver"
+    id: "online.jad.fuodzdeliveryboy"
+    name: "Jad Driver"
   ios:
-    id: "online.edentech.fuodzdeliveryboy"
-    name: "Glover Driver"
+    id: "sa.jad.driver"
+    name: "Jad Driver"

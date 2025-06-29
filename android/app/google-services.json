@@ -1,247 +1,64 @@
 {
   "project_info": {
-    "project_number": "977502122572",
-    "project_id": "fuodz-e9ebc",
-    "storage_bucket": "fuodz-e9ebc.appspot.com"
+    "project_number": "258546891887",
+    "project_id": "jadapp-70b0f",
+    "storage_bucket": "jadapp-70b0f.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:977502122572:android:71f36361e467fac7c3bae9",
+        "mobilesdk_app_id": "1:258546891887:android:5ba21efea643341c48e19a",
         "android_client_info": {
-          "package_name": "com.edentech.fuodz"
+          "package_name": "online.jad.fuodz"
         }
       },
-      "oauth_client": [
-        {
-          "client_id": "977502122572-uqbva0nj0db9sktofqvfg609i0s0rrlo.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "com.edentech.fuodz",
-            "certificate_hash": "9a87cecff272f5fc302d4bd81ace4c75f75208d0"
-          }
-        },
-        {
-          "client_id": "977502122572-j9k6pf70lb4j72ka1jcjglggnmq942mr.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
+      "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyDnDczEoeUwf7bN5b_-223uvrecPVfzggE"
+          "current_key": "AIzaSyAyZF5lel4kiIO9Q6WW8MBOVpRZiaOlYBs"
         }
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "977502122572-j9k6pf70lb4j72ka1jcjglggnmq942mr.apps.googleusercontent.com",
-              "client_type": 3
-            },
-            {
-              "client_id": "977502122572-9eef517oe3ontec05l5memgakcgvvbr8.apps.googleusercontent.com",
-              "client_type": 2,
-              "ios_info": {
-                "bundle_id": "online.edentech.fuodzdeliveryboy"
-              }
-            }
-          ]
+          "other_platform_oauth_client": []
         }
       }
     },
     {
       "client_info": {
-        "mobilesdk_app_id": "1:977502122572:android:414c92f513ea7582c3bae9",
+        "mobilesdk_app_id": "1:258546891887:android:ff8642f304f4f23148e19a",
         "android_client_info": {
-          "package_name": "com.edentech.fuodzdeliveryboy"
+          "package_name": "online.jad.fuodzdeliveryboy"
         }
       },
-      "oauth_client": [
-        {
-          "client_id": "977502122572-v2qo3hbuuq55iho0c8u3f9516vgqosih.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "com.edentech.fuodzdeliveryboy",
-            "certificate_hash": "9a87cecff272f5fc302d4bd81ace4c75f75208d0"
-          }
-        },
-        {
-          "client_id": "977502122572-j9k6pf70lb4j72ka1jcjglggnmq942mr.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
+      "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyDnDczEoeUwf7bN5b_-223uvrecPVfzggE"
+          "current_key": "AIzaSyAyZF5lel4kiIO9Q6WW8MBOVpRZiaOlYBs"
         }
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "977502122572-j9k6pf70lb4j72ka1jcjglggnmq942mr.apps.googleusercontent.com",
-              "client_type": 3
-            },
-            {
-              "client_id": "977502122572-9eef517oe3ontec05l5memgakcgvvbr8.apps.googleusercontent.com",
-              "client_type": 2,
-              "ios_info": {
-                "bundle_id": "online.edentech.fuodzdeliveryboy"
-              }
-            }
-          ]
+          "other_platform_oauth_client": []
         }
       }
     },
     {
       "client_info": {
-        "mobilesdk_app_id": "1:977502122572:android:05718d4735c48453c3bae9",
+        "mobilesdk_app_id": "1:258546891887:android:582ecb566c92dad248e19a",
         "android_client_info": {
-          "package_name": "com.edentech.fuodzvendor"
+          "package_name": "online.jad.fuodzvendor"
         }
       },
-      "oauth_client": [
-        {
-          "client_id": "977502122572-v4l7pnh3h9n88htgftsu616lt4sjaek2.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "com.edentech.fuodzvendor",
-            "certificate_hash": "9a87cecff272f5fc302d4bd81ace4c75f75208d0"
-          }
-        },
-        {
-          "client_id": "977502122572-j9k6pf70lb4j72ka1jcjglggnmq942mr.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
+      "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyDnDczEoeUwf7bN5b_-223uvrecPVfzggE"
+          "current_key": "AIzaSyAyZF5lel4kiIO9Q6WW8MBOVpRZiaOlYBs"
         }
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "977502122572-j9k6pf70lb4j72ka1jcjglggnmq942mr.apps.googleusercontent.com",
-              "client_type": 3
-            },
-            {
-              "client_id": "977502122572-9eef517oe3ontec05l5memgakcgvvbr8.apps.googleusercontent.com",
-              "client_type": 2,
-              "ios_info": {
-                "bundle_id": "online.edentech.fuodzdeliveryboy"
-              }
-            }
-          ]
-        }
-      }
-    },
-    {
-      "client_info": {
-        "mobilesdk_app_id": "1:977502122572:android:07a9e9b559cd67b8c3bae9",
-        "android_client_info": {
-          "package_name": "online.edentech.fuodz"
-        }
-      },
-      "oauth_client": [
-        {
-          "client_id": "977502122572-j9k6pf70lb4j72ka1jcjglggnmq942mr.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
-      "api_key": [
-        {
-          "current_key": "AIzaSyDnDczEoeUwf7bN5b_-223uvrecPVfzggE"
-        }
-      ],
-      "services": {
-        "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "977502122572-j9k6pf70lb4j72ka1jcjglggnmq942mr.apps.googleusercontent.com",
-              "client_type": 3
-            },
-            {
-              "client_id": "977502122572-9eef517oe3ontec05l5memgakcgvvbr8.apps.googleusercontent.com",
-              "client_type": 2,
-              "ios_info": {
-                "bundle_id": "online.edentech.fuodzdeliveryboy"
-              }
-            }
-          ]
-        }
-      }
-    },
-    {
-      "client_info": {
-        "mobilesdk_app_id": "1:977502122572:android:3d351790a4a4aa12c3bae9",
-        "android_client_info": {
-          "package_name": "online.edentech.fuodzdeliveryboy"
-        }
-      },
-      "oauth_client": [
-        {
-          "client_id": "977502122572-j9k6pf70lb4j72ka1jcjglggnmq942mr.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
-      "api_key": [
-        {
-          "current_key": "AIzaSyDnDczEoeUwf7bN5b_-223uvrecPVfzggE"
-        }
-      ],
-      "services": {
-        "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "977502122572-j9k6pf70lb4j72ka1jcjglggnmq942mr.apps.googleusercontent.com",
-              "client_type": 3
-            },
-            {
-              "client_id": "977502122572-9eef517oe3ontec05l5memgakcgvvbr8.apps.googleusercontent.com",
-              "client_type": 2,
-              "ios_info": {
-                "bundle_id": "online.edentech.fuodzdeliveryboy"
-              }
-            }
-          ]
-        }
-      }
-    },
-    {
-      "client_info": {
-        "mobilesdk_app_id": "1:977502122572:android:d6adddf5e6003edfc3bae9",
-        "android_client_info": {
-          "package_name": "online.edentech.fuodzvendor"
-        }
-      },
-      "oauth_client": [
-        {
-          "client_id": "977502122572-j9k6pf70lb4j72ka1jcjglggnmq942mr.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
-      "api_key": [
-        {
-          "current_key": "AIzaSyDnDczEoeUwf7bN5b_-223uvrecPVfzggE"
-        }
-      ],
-      "services": {
-        "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "977502122572-j9k6pf70lb4j72ka1jcjglggnmq942mr.apps.googleusercontent.com",
-              "client_type": 3
-            },
-            {
-              "client_id": "977502122572-9eef517oe3ontec05l5memgakcgvvbr8.apps.googleusercontent.com",
-              "client_type": 2,
-              "ios_info": {
-                "bundle_id": "online.edentech.fuodzdeliveryboy"
-              }
-            }
-          ]
+          "other_platform_oauth_client": []
         }
       }
     }
